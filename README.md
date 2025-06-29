@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Computer Science student at UESPI<br>
-  🔍 <strong>QA enthusiast</strong> | Test Automation | Future Dev<br>
+  🔍 <strong>QA enthusiast</strong> | Test Automation | API Test<br>
   🚀 Currently learning , CI/CD, API & Mobile Testing with Postman, JMeter, Cypress, and Appium
 </p>
 
