@@ -30,4 +30,3 @@
 ### 🌐 Let's connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/edgar-junior-222337251)
-- 📂 [GitHub Portfolio](https://github.com/Edg4rjr1)
