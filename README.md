@@ -12,8 +12,7 @@ QA Engineer e estudante de Ciência da Computação, dedicado a elevar a qualida
   <br/>
   🔬 Especializado em <b>Automação de Testes</b>, <b>Testes de API</b> e <b>Qualidade de Software</b>.
   <br/>
-  🚀 Explorando o universo de <b>CI/CD</b>, <b>Testes Mobile</b> com Appium e otimização de performance com <b>JMeter</b>.
-</p>
+  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/" target="_blank">
