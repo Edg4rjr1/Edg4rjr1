@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="URL_DO_SEU_BANNER_AQUI" alt="Banner Edgar Jr - QA Engineer" />
-</p>
 
 <h1 align="center">Olá! 👋 Eu sou o Edgar Jr</h1>
 <h3 align="center">Um entusiasta de qualidade de software e automação de testes.</h3>
@@ -66,7 +63,7 @@
 ## 🌟 Projetos em Destaque
 
 <p align="center">
-  <a href="URL_DO_SEU_PROJETO_1">
+  <a href="https://github.com/Edg4rjr1/cypress-cicd">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edg4rjr1&repo=NOME_DO_REPO_1&theme=dracula" />
   </a>
   <a href="URL_DO_SEU_PROJETO_2">
