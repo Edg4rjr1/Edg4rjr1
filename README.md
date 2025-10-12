@@ -3,8 +3,7 @@
 <h3 align="center">Um entusiasta de qualidade de software e automação de testes.</h3>
 
 <p align="center">
-  Sou um estudante de Ciência da Computação e QA Engineer focado em garantir que aplicações sejam robustas, eficientes e livres de bugs. Atualmente, estou aprofundando meus conhecimentos em ecossistemas de CI/CD e testes para aplicações mobile.
-</p>
+QA Engineer e estudante de Ciência da Computação, dedicado a elevar a qualidade e a confiabilidade de software. Minha atuação é focada na implementação de estratégias de testes, combinando automação e análise crítica para garantir produtos de alta performance.</p>
 
 ---
 
