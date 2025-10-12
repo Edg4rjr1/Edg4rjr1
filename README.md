@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:edgarnsjunior@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -59,20 +59,3 @@
 </p>
 
 ---
-
-## 🌟 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/Edg4rjr1/cypress-cicd">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edg4rjr1&repo=NOME_DO_REPO_1&theme=dracula" />
-  </a>
-  <a href="URL_DO_SEU_PROJETO_2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edg4rjr1&repo=NOME_DO_REPO_2&theme=dracula" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=edg4rjr1&theme=dracula&column=7" alt="edg4rjr1" />
-  </a>
-</p>
