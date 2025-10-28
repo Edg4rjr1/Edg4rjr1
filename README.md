@@ -39,7 +39,8 @@ QA Engineer e estudante de Ciência da Computação, dedicado a elevar a qualida
   <a href="#"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
   <a href="#"><img alt="JMeter" src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"></a>
-  <a href="#"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=whi
+  <a href="#"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white"></a>
+</p>
 
 <p align="left">
   <b>CI/CD e DevOps:</b><br>
