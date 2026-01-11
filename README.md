@@ -1,19 +1,17 @@
 
-<h1 align="center">Olá! 👋 Eu sou o Edgar Jr</h1>
+<h1 align="center">Olá!  Eu sou o Edgar Jr</h1>
 <h3 align="center">Um entusiasta de qualidade de software e automação de testes.</h3>
 
 <p align="center">
-QA Engineer e estudante de Ciência da Computação, dedicado a elevar a qualidade e a confiabilidade de software. Minha atuação é focada na implementação de estratégias de testes, combinando automação e análise crítica para garantir produtos de alta performance.</p>
+QA Engineer dedicado a elevar a qualidade e a confiabilidade de software. Minha atuação é focada na implementação de estratégias de testes, combinando automação e análise crítica para garantir produtos de alta performance.</p>
 
 ---
 
 <p align="left">
-  🎓 Estudante de Ciência da Computação na <b>UFESPI</b>.
   <br/>
   🔬 Especializado em <b>Automação de Testes</b>, <b>Testes de API</b> e <b>Qualidade de Software</b>.
   <br/>
   
-
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
